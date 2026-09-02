@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=220&section=header&text=Tasfia%20Khanam%20Suchana&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%"/>
+# 👋 Hi, I'm Tasfia Khanam Suchana
 
-# Hi, I'm Tasfia Khanam Suchana 👋
-
-### CSE Student | Aspiring Full-Stack Developer | MERN Stack Learner
+### 💻 CSE Student | Aspiring Full-Stack Developer | MERN Stack Learner
 
 <p>
   <a href="https://github.com/Suchanaaaaa">
@@ -28,7 +26,7 @@
 
 I’m a **Computer Science and Engineering student** with a strong interest in **Web Development and Software Engineering**.
 
-Currently, I’m focusing on **MERN Stack Development**, **Advanced JavaScript**, and building my skills as a **Full-Stack Developer**.
+Currently, I’m focusing on **MERN Stack Development**, **Advanced JavaScript**, and building my skills as an **Aspiring Full-Stack Developer**.
 
 I enjoy learning new technologies, solving programming problems, and building practical web applications.
 
@@ -47,11 +45,11 @@ I enjoy learning new technologies, solving programming problems, and building pr
 
 <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb" />
 
-</div>
+<br><br>
 
-<p align="center">
-  Advanced JavaScript • React.js • Node.js • Express.js • MongoDB • REST APIs • Full-Stack Development
-</p>
+**Advanced JavaScript · React.js · Node.js · Express.js · MongoDB · REST APIs · Full-Stack Development**
+
+</div>
 
 ---
 
@@ -60,31 +58,41 @@ I enjoy learning new technologies, solving programming problems, and building pr
 ### 💻 Programming Languages
 
 <div align="center">
+
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
+
 </div>
 
-### 🎨 Frontend
+### 🎨 Frontend Development
 
 <div align="center">
+
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+
 </div>
 
-### ⚙️ Backend
+### ⚙️ Backend Development
 
 <div align="center">
+
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
+
 </div>
 
 ### 🗄️ Database
 
 <div align="center">
+
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
 </div>
 
-### 🔧 Tools
+### 🔧 Tools & Technologies
 
 <div align="center">
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux" />
+
 </div>
 
 ---
@@ -137,16 +145,6 @@ A user-friendly pet adoption and management web application that connects people
 
 ---
 
-## 🌱 What I'm Working Towards
-
-<div align="center">
-
-**MERN Stack → Full-Stack Development → Software Engineering 🚀**
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -174,7 +172,5 @@ A user-friendly pet adoption and management web application that connects people
 ### 💙 Thanks for visiting my profile!
 
 **Keep Learning • Keep Building • Keep Growing 🚀**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=120&section=footer" width="100%"/>
 
 </div>
