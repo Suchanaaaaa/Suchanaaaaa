@@ -180,38 +180,6 @@ Typical areas I work with include:
 
 </div>
 
----
-
-## 🤝 Let's Connect
-
-I'm always open to:
-
-* Software development opportunities
-* Full-Stack Development projects
-* Learning and collaboration
-* Open-source contributions
-* Connecting with fellow developers
-
-<div align="center">
-
-**Feel free to reach out! 🚀**
-
-<br/>
-
-<a href="https://github.com/Suchanaaaaa">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/tasfia-khanam-suchana-828492377/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:tasfiakhanamsuchona@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br/><br/>
-
 <img src="https://komarev.com/ghpvc/?username=Suchanaaaaa&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 
 <br/><br/>
