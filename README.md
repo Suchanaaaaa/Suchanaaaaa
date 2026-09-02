@@ -26,18 +26,18 @@
 
 ## 👩‍💻 About Me
 
-I am a **Computer Science and Engineering student** with a strong interest in **Web Development and Software Engineering**.
+I’m a **Computer Science and Engineering student** with a strong interest in **Web Development and Software Engineering**.
 
-Currently, I am focusing on **MERN Stack Development**, **Advanced JavaScript**, and building my skills as a **Full-Stack Developer**.
+Currently, I’m focusing on **MERN Stack Development**, **Advanced JavaScript**, and building my skills as a **Full-Stack Developer**.
 
-I enjoy learning new technologies, solving programming problems, and turning ideas into practical web applications.
+I enjoy learning new technologies, solving programming problems, and building practical web applications.
 
 * 🎓 BSc in Computer Science & Engineering
-* 💻 Currently focused on MERN Stack Development
+* 💻 Focused on MERN Stack Development
 * 🌱 Learning Advanced JavaScript & Full-Stack Development
-* 🚀 Building real-world web projects
+* 🚀 Building real-world web applications
 * 🧠 Interested in Software Engineering & Problem Solving
-* 🤝 Open to learning, collaboration and new opportunities
+* 🤝 Open to learning and collaboration
 
 ---
 
@@ -49,61 +49,47 @@ I enjoy learning new technologies, solving programming problems, and turning ide
 
 </div>
 
-* ⚡ Advanced JavaScript
-* ⚛️ React.js
-* 🟢 Node.js & Express.js
-* 🍃 MongoDB
-* 🔗 REST API Development
-* 🌐 Full-Stack Web Development
-* 🚀 Building and deploying MERN applications
+<p align="center">
+  Advanced JavaScript • React.js • Node.js • Express.js • MongoDB • REST APIs • Full-Stack Development
+</p>
 
 ---
 
 ## 🛠️ Technical Skills
 
-### 👨‍💻 Programming Languages
+### 💻 Programming Languages
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
-
 </div>
 
-### 🎨 Frontend Development
+### 🎨 Frontend
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
-
 </div>
 
-### ⚙️ Backend Development
+### ⚙️ Backend
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
-
 </div>
 
 ### 🗄️ Database
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-
 </div>
 
-### 🔧 Tools & Technologies
+### 🔧 Tools
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux" />
-
 </div>
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Project
 
 ### 🐾 PawPals — Pet Adoption & Management Platform
 
@@ -111,28 +97,11 @@ I enjoy learning new technologies, solving programming problems, and turning ide
 
 A user-friendly pet adoption and management web application that connects people who want to adopt pets with pet owners.
 
-🔗 **GitHub:** https://github.com/Suchanaaaaa/PawPals
-🌐 **Live Demo:** https://paw-pals-three.vercel.app/
-
----
-
-### 🎓 Student Management System
-
-**Python · Flask · MySQL**
-
-A web-based application for managing student information and records.
-
-🔗 **GitHub:** https://github.com/Suchanaaaaa
-
----
-
-### 🚦 Smart Traffic Light System
-
-**Arduino · Embedded Systems**
-
-A smart traffic control system with pedestrian crossing functionality.
-
-🔗 **GitHub:** https://github.com/Suchanaaaaa
+<p>
+  🔗 <a href="https://github.com/Suchanaaaaa/PawPals">GitHub Repository</a>
+  &nbsp; | &nbsp;
+  🌐 <a href="https://paw-pals-three.vercel.app/">Live Demo</a>
+</p>
 
 ---
 
@@ -168,23 +137,11 @@ A smart traffic control system with pedestrian crossing functionality.
 
 ---
 
-## 🎯 My Goals
-
-* 🚀 Become a skilled Full-Stack Developer
-* ⚛️ Master React.js and modern JavaScript
-* 🟢 Build strong backend development skills
-* 🍃 Become confident with MongoDB
-* 💻 Build and deploy more full-stack applications
-* 🧠 Improve problem-solving and programming skills
-* 🌱 Continuously learn and explore new technologies
-* 🤝 Contribute to meaningful software projects
-
----
-## 📈 Profile Visitors
+## 🌱 What I'm Working Towards
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Suchanaaaaa&label=Profile%20Visitors&color=blue&style=for-the-badge" />
+**MERN Stack → Full-Stack Development → Software Engineering 🚀**
 
 </div>
 
@@ -212,10 +169,12 @@ A smart traffic control system with pedestrian crossing functionality.
 
 <div align="center">
 
+<img src="https://komarev.com/ghpvc/?username=Suchanaaaaa&label=Profile%20Visitors&style=for-the-badge"/>
+
 ### 💙 Thanks for visiting my profile!
 
 **Keep Learning • Keep Building • Keep Growing 🚀**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=120&section=footer" width="100%"/>
 
 </div>
