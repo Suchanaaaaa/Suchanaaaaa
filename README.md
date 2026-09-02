@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.jpeg" width="100%"  height="300" alt="Tasfia Khanam Suchana banner"/>
+<img src="./banner.jpeg" width="100%" height="300" alt="Tasfia Khanam Suchana banner"/>
 
 <br/>
 
@@ -11,9 +11,11 @@
 <a href="https://github.com/Suchanaaaaa">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+
 <a href="https://www.linkedin.com/in/tasfia-khanam-suchana-828492377/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+
 <a href="mailto:tasfiakhanamsuchona@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
@@ -32,18 +34,18 @@
 
 I'm a **Computer Science and Engineering student** at **Metropolitan University, Bangladesh**, with a strong interest in **Web Development and Software Engineering**.
 
-I enjoy building software from frontend interfaces to backend APIs and databases. Currently, my primary focus is on the **MERN Stack**, **Advanced JavaScript**, and developing practical full-stack web applications.
+I enjoy building software from frontend interfaces to backend APIs and databases. Currently, my primary focus is on **MERN Stack Development**, **Advanced JavaScript**, and building practical full-stack web applications.
 
 I'm continuously learning, building projects, and strengthening my programming and problem-solving skills to grow as a **Full-Stack Developer**.
 
 ### Currently
 
-* Building full-stack applications using the **MERN ecosystem**
-* Improving **JavaScript and React.js** skills
-* Learning **Node.js, Express.js, and MongoDB**
-* Developing REST APIs and connecting frontend with backend
-* Building and deploying real-world web applications
-* Strengthening problem-solving and software development fundamentals
+* 💻 Building full-stack applications using the **MERN ecosystem**
+* ⚡ Improving **JavaScript and React.js** skills
+* 🟢 Learning **Node.js, Express.js, and MongoDB**
+* 🔗 Developing REST APIs and frontend-backend integration
+* 🚀 Building and deploying real-world web applications
+* 🧠 Strengthening programming and problem-solving skills
 
 ---
 
@@ -166,10 +168,6 @@ Typical areas I work with include:
 
 </div>
 
-<br/>
-
-> GitHub's native contribution graph is the primary source of truth for activity. These widgets are supplementary.
-
 ---
 
 ## 🏆 GitHub Trophies
@@ -178,7 +176,7 @@ Typical areas I work with include:
 
 <img src="https://github-profile-trophy.vercel.app/?username=Suchanaaaaa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
 
-</div>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Suchanaaaaa&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 
