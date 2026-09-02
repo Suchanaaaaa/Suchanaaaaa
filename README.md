@@ -1,99 +1,110 @@
 <div align="center">
 
-# 👋 Hi, I'm Tasfia Khanam Suchana
+<img src="./header.svg" width="100%" alt="Tasfia Khanam Suchana banner"/>
 
-### 💻 CSE Student | Aspiring Full-Stack Developer | MERN Stack Learner
+<br/>
 
-<p>
-  <a href="https://github.com/Suchanaaaaa">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/tasfia-khanam-suchana-828492377/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:tasfiakhanamsuchona@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2800&pause=1200&color=5EEAD4&center=true&vCenter=true&width=700&lines=CSE+Student;Aspiring+Full-Stack+Developer;MERN+Stack+Learner;Web+Development+Enthusiast;Building+%26+Learning+Every+Day" alt="Typing SVG"/>
 
-📍 Sylhet, Bangladesh
+<br/>
+
+<a href="https://github.com/Suchanaaaaa">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/tasfia-khanam-suchana-828492377/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:tasfiakhanamsuchona@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Sylhet%2C%20Bangladesh-1e2748?style=for-the-badge&logo=googlemaps&logoColor=5eead4" alt="Sylhet, Bangladesh"/>
 
 </div>
+
+<br/>
 
 ---
 
 ## 👩‍💻 About Me
 
-I’m a **Computer Science and Engineering student** with a strong interest in **Web Development and Software Engineering**.
+I'm a **Computer Science and Engineering student** at **Metropolitan University, Bangladesh**, with a strong interest in **Web Development and Software Engineering**.
 
-Currently, I’m focusing on **MERN Stack Development**, **Advanced JavaScript**, and building my skills as an **Aspiring Full-Stack Developer**.
+I enjoy building software from frontend interfaces to backend APIs and databases. Currently, my primary focus is on the **MERN Stack**, **Advanced JavaScript**, and developing practical full-stack web applications.
 
-I enjoy learning new technologies, solving programming problems, and building practical web applications.
+I'm continuously learning, building projects, and strengthening my programming and problem-solving skills to grow as a **Full-Stack Developer**.
 
-* 🎓 BSc in Computer Science & Engineering
-* 💻 Focused on MERN Stack Development
-* 🌱 Learning Advanced JavaScript & Full-Stack Development
-* 🚀 Building real-world web applications
-* 🧠 Interested in Software Engineering & Problem Solving
-* 🤝 Open to learning and collaboration
+### Currently
 
----
-
-## 🚀 Currently Learning
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb" />
-
-<br><br>
-
-**Advanced JavaScript · React.js · Node.js · Express.js · MongoDB · REST APIs · Full-Stack Development**
-
-</div>
+* Building full-stack applications using the **MERN ecosystem**
+* Improving **JavaScript and React.js** skills
+* Learning **Node.js, Express.js, and MongoDB**
+* Developing REST APIs and connecting frontend with backend
+* Building and deploying real-world web applications
+* Strengthening problem-solving and software development fundamentals
 
 ---
 
 ## 🛠️ Technical Skills
 
-### 💻 Programming Languages
+### Programming Languages
 
-<div align="center">
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
+</p>
 
-</div>
+### Frontend Development
 
-### 🎨 Frontend Development
-
-<div align="center">
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
 
-</div>
+### Backend Development
 
-### ⚙️ Backend Development
-
-<div align="center">
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-</div>
+<p align="center">
+REST APIs · Authentication · CRUD Operations · API Integration
+</p>
 
-### 🗄️ Database
+### Database
 
-<div align="center">
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
-</div>
+<p align="center">
+MongoDB · MongoDB Atlas · MySQL · Database Design · CRUD Operations
+</p>
 
-### 🔧 Tools & Technologies
+### Tools
 
-<div align="center">
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux" />
+</p>
 
-</div>
+---
+
+## 🚀 Currently Learning
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb" />
+</p>
+
+Currently focusing on:
+
+* Advanced JavaScript
+* React.js and component-based development
+* Node.js and Express.js
+* MongoDB and database integration
+* REST API development
+* Authentication and authorization
+* Full-stack application development
+* Deployment and production-ready development
 
 ---
 
@@ -103,13 +114,41 @@ I enjoy learning new technologies, solving programming problems, and building pr
 
 **React · Node.js · Express.js · MongoDB**
 
-A user-friendly pet adoption and management web application that connects people who want to adopt pets with pet owners.
+A full-stack pet adoption and management web application that connects people who want to adopt pets with pet owners who want to put their pets up for adoption.
 
-<p>
-  🔗 <a href="https://github.com/Suchanaaaaa/PawPals">GitHub Repository</a>
-  &nbsp; | &nbsp;
-  🌐 <a href="https://paw-pals-three.vercel.app/">Live Demo</a>
-</p>
+🌐 **Live Demo:** https://paw-pals-three.vercel.app/
+
+💻 **GitHub Repository:** https://github.com/Suchanaaaaa/PawPals
+
+---
+
+## 💻 Full-Stack Development
+
+I’m currently developing my skills across the complete web development stack.
+
+**Frontend**
+
+React.js · JavaScript · HTML · CSS · Tailwind CSS
+
+**Backend**
+
+Node.js · Express.js · REST APIs
+
+**Database**
+
+MongoDB · MongoDB Atlas · MySQL
+
+Typical areas I work with include:
+
+* User authentication and authorization
+* REST API development
+* CRUD operations
+* Database integration
+* Form handling and validation
+* Responsive UI development
+* Frontend and backend integration
+* API testing with Postman
+* Full-stack application deployment
 
 ---
 
@@ -117,21 +156,19 @@ A user-friendly pet adoption and management web application that connects people
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Suchanaaaaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Suchanaaaaa&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suchanaaaaa&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suchanaaaaa&layout=compact&theme=github_dark&hide_border=true"/>
 
-</div>
+<br/><br/>
 
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Suchanaaaaa&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Suchanaaaaa&theme=github-dark-blue&hide_border=true"/>
 
 </div>
+
+<br/>
+
+> GitHub's native contribution graph is the primary source of truth for activity. These widgets are supplementary.
 
 ---
 
@@ -139,7 +176,7 @@ A user-friendly pet adoption and management web application that connects people
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Suchanaaaaa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=Suchanaaaaa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
 
 </div>
 
@@ -147,27 +184,37 @@ A user-friendly pet adoption and management web application that connects people
 
 ## 🤝 Let's Connect
 
+I'm always open to:
+
+* Software development opportunities
+* Full-Stack Development projects
+* Learning and collaboration
+* Open-source contributions
+* Connecting with fellow developers
+
 <div align="center">
 
+**Feel free to reach out! 🚀**
+
+<br/>
+
 <a href="https://github.com/Suchanaaaaa">
-<img src="https://img.shields.io/badge/GitHub-Suchanaaaaa-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/tasfia-khanam-suchana-828492377/">
-<img src="https://img.shields.io/badge/LinkedIn-Tasfia%20Khanam%20Suchana-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:tasfiakhanamsuchona@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</div>
+<br/><br/>
 
----
+<img src="https://komarev.com/ghpvc/?username=Suchanaaaaa&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Suchanaaaaa&label=Profile%20Visitors&style=for-the-badge"/>
+<br/><br/>
 
 ### 💙 Thanks for visiting my profile!
 
