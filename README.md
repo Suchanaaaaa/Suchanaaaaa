@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./header.svg" width="100%" alt="Tasfia Khanam Suchana banner"/>
+<img src="./banner.jpeg" width="100%" alt="Tasfia Khanam Suchana banner"/>
 
 <br/>
 
