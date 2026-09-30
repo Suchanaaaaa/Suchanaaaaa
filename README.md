@@ -108,22 +108,6 @@ Currently focusing on:
 * Full-stack application development
 * Deployment and production-ready development
 
----
-
-## 📌 Featured Project
-
-### 🐾 PawPals — Pet Adoption & Management Platform
-
-**React · Node.js · Express.js · MongoDB**
-
-A full-stack pet adoption and management web application that connects people who want to adopt pets with pet owners who want to put their pets up for adoption.
-
-🌐 **Live Demo:** https://paw-pals-three.vercel.app/
-
-💻 **GitHub Repository:** https://github.com/Suchanaaaaa/PawPals
-
----
-
 ## 💻 Full-Stack Development
 
 I’m currently developing my skills across the complete web development stack.
